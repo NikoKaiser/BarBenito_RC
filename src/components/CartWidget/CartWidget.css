@@ -1,0 +1,10 @@
+.cart {
+  margin: 2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+}
+
+.counter {
+  position: absolute !important;
+  transform: translateX(200%) translateY(70%) !important;
+}
